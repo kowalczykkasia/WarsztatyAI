@@ -1,0 +1,4 @@
+*.parquet
+chembl_36/
+.venv/
+__pycache__/
