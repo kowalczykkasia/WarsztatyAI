@@ -85,6 +85,3 @@ Przykład: `CC(C)Cc1ccc(cc1)C(C)C(O)=O` (ibuprofen)
 └── eda_chembl36_kowalczyk_kasia.ipynb  # Analiza eksploracyjna danych
 ```
 
----
-
-*Kasia Kowalczyk · Warsztaty AI · 2026*
