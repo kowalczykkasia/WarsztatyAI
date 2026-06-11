@@ -2,3 +2,35 @@
 chembl_36/
 .venv/
 __pycache__/
+*.pt
+*.log
+*.csv
+.DS_Store
+.idea/
+.vscode/
+venv*/
+saved_models/
+*.html
+
+# Dokumentacja i prezentacja
+DOCUMENTATION.md
+presentation/
+
+# Stare skrypty
+chembl_36_join.py
+chembl_36_to_parquet.py
+eda_chembl36.py
+load_models.py
+generate_presentation.py
+
+# Skrypty monitorowania
+alert_when_done.sh
+quick_monitor.sh
+robust_monitor.sh
+monitor.log
+
+# Docker
+docker/
+
+# Claude Code
+.claude/
